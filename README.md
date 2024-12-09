@@ -9,3 +9,4 @@ he, him
 
 ### 📫 How to reach me
 - follow me here
+- [Bluesky](https://bsky.app/profile/ty-rone.bsky.social)
