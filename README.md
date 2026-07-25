@@ -8,7 +8,7 @@ I write [Synthesis](https://synthesis.scafejr.me), a hybrid journal-lab unpackin
 
 ### 🍷 wine & technology
 
-I also build the software for [Dukes Wine Company](https://github.com/Dukes-Wine-Co), a wine business in LA. Member portal, email service, analytics, CI/CD. And yes, I will talk your ear off about wine.
+I also build the software for [Dukes Wine Company](https://dukeswines.com), a wine business in LA. Member portal, email service, analytics, CI/CD. And yes, I will talk your ear off about wine.
 
 ### 📫 reach me
 
